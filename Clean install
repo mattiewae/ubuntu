@@ -1,0 +1,10 @@
+apt-get install -y openssh-server
+apt-get install -y tmux
+apt-get install -y screen
+
+# https://robots.thoughtbot.com/a-tmux-crash-course
+# https://www.digitalocean.com/community/tutorials/how-to-install-and-use-screen-on-an-ubuntu-cloud-server
+
+
+# -- to do
+# 
